@@ -1,0 +1,10 @@
+\documentclass[12pt]{scrartcl}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{asymptote}
+\usepackage{amssymb}
+\usepackage{gensymb}
+\usepackage[sexy,hints]{evan}
+\usepackage{pdfpages} 
+\usepackage{hyperref}
