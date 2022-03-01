@@ -1,3 +1,4 @@
+#Useful packages
 \documentclass[12pt]{scrartcl}
 \usepackage{amsmath}
 \usepackage{graphicx}
