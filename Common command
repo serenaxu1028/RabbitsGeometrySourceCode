@@ -1,42 +1,53 @@
+#center
 \begin{center}
 \textit{{I like rabbits.}}
 \end{center}
----
+
+#picture
 \begin{center}
 \includegraphics[scale=0.2]{rabbit.png}
 \end{center}
----
+
+#itemize
 \begin{itemize}
 \item Rabbits are cute.
 \end{itemize}
----
+
+#boldsymbol
 $\boldsymbol{Chapter}$ 
 $\boldsymbol{1}$
----
+
+#definition
 \begin{definition}
 Rabbits are some kinds of animals who eat carrots and carrots.
 \end{definition}
----
+
+#fact
 \begin{fact}
 I like rabbits.
 \end{fact}
----
+
+#remark
 \begin{remark}
 I remember he likes rabbits too.
 \end{remark}
----
+
+#theorem
 \begin{theorem}
 Rabbits theorem is the greatest theorem.
 \end{theorem}
----
+
+#proof
 \begin{proof}
 It's beyond doubt that rabbits are the cutiest animals.
 \end{proof}
----
+
+#example
 \begin{example}
 I give my rabbit a carrot today.
 \end{example}
----
+
+#problem
 \begin{problem}
 Rabbits are a problem, perhaps.
 \end{problem}
